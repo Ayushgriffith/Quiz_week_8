@@ -1,23 +1,23 @@
 commit c5204e7622db89bfc927d265812d6b5bf25949b6
-Author: Huzaifa <huzaifaniaz@hotmail.com>
+Author: Ayush 
 Date:   Fri Sep 15 21:28:37 2023 +0500
 
     Added gitlog.txt
 
 commit 5947199417c1d54442ffc6f42731d66ec06e4855
-Author: Huzaifa <huzaifaniaz@hotmail.com>
+Author: Ayush 
 Date:   Fri Sep 15 21:25:37 2023 +0500
 
     Added code
 
 commit bf93d678759bf55fb9737995c94ab0e86a1ed2d7
-Author: Huzaifa <huzaifaniaz@hotmail.com>
+Author: Ayush 
 Date:   Fri Sep 15 21:06:53 2023 +0500
 
     Added code to connect to the csv file and fetch values
 
 commit 1f27f1248da365a8c1615ee290362ad2d158ff54
-Author: Huzaifa <huzaifaniaz@hotmail.com>
+Author: Ayush 
 Date:   Fri Sep 15 21:06:21 2023 +0500
 
     Added code to connect to the database and fetch values
