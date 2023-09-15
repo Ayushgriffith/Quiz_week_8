@@ -1,0 +1,6 @@
+$ git clone https://github.com/Ayushgriffith/Quiz_week_8.git
+$ cd Quiz_week_8
+$ git add climate_q1.py
+$ git add climate_q2.py
+$ git add -A
+$git push origin main
